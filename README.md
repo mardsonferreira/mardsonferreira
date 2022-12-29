@@ -2,9 +2,9 @@
 
 <div>
 <a href="https://github.com/mardsonferreira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mardsonferreira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-omega-silk.vercel.app/api?username=mardsonferreira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mardsonferreira&layout=compact&langs_count=16&theme=vue-dark" />
+<img height="180em" src="https://github-readme-stats-omega-silk.vercel.app/api/top-langs?username=mardsonferreira&layout=compact&langs_count=16&theme=vue-dark" />
 <div>
  
 <br>
