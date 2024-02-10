@@ -1,15 +1,19 @@
-### Hi there! I am Mardson.
+👋 Hi there! I'm Mardson Ferreira, a full-stack developer with a Master's degree in Computer Science.
+
+💻 With over 5 years of hands-on experience in programming, I thrive on crafting robust and elegant solutions to complex problems.
+
+🌐 While Portuguese is my native language, I'm also fluent in English and have a basic understanding of Spanish. I'm always keen on expanding my language repertoire.
+
+⏳ Outside of coding, you'll often find me indulging in podcasts, exploring travel videos, and diving into the latest technologies.
+
+⚽️ As a die-hard football enthusiast, my heart beats for Palmeiras. You can catch me passionately cheering for them during the season.
+
+🌟 Let's connect and innovate together! Feel free to reach out for collaborations or simply to chat about tech, languages, or the beautiful game of football.
+ 
+
+##
 
 <div>
-<a href="https://github.com/mardsonferreira">
-    <img height="180em" src="https://github-readme-stats-omega-silk.vercel.app/api?username=mardsonferreira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-&nbsp;
-    <img height="180em" src="https://github-readme-stats-omega-silk.vercel.app/api/top-langs?username=mardsonferreira&layout=compact&langs_count=16&theme=vue-dark" />
-<div>
- 
-<br>
-  
-<div style="inline_block">
 <img align="center" alt="mards-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="center" alt="mards-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img align="center" alt="mards-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
